@@ -70,7 +70,6 @@
   <text class="mono body line l7" x="54" y="298">俞婧雯 · AI Product Manager</text>
 
   <text class="mono prompt line l8" x="54" y="346">yujingwen@yjw-mac ~ % <tspan class="body">open yujingwen.os</tspan></text>
-  <rect class="cursor" x="322" y="328" width="9" height="22" rx="1"/>
 
   <text class="mono ready" x="54" y="389">SYSTEM READY</text>
   <text class="mono cta" x="500" y="448" text-anchor="middle">CLICK TO LAUNCH · HIWHALEW.GITHUB.IO</text>
