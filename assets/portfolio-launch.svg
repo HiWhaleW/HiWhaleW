@@ -57,7 +57,7 @@
   <circle cx="24" cy="27" r="7" fill="#ef6461"/>
   <circle cx="47" cy="27" r="7" fill="#efbd4e"/>
   <circle cx="70" cy="27" r="7" fill="#55b96f"/>
-  <text class="mono meta" x="500" y="31" text-anchor="middle">yujingwen@yjw-mac — zsh — 100×30</text>
+  <text class="mono meta" x="500" y="31" text-anchor="middle">yujingwen@yjw-mac — HiWhaleW — 100×30</text>
 
   <text class="mono title line l1" x="54" y="93">yujingwen OS v2.0.0 — Clear Light</text>
 
@@ -72,6 +72,6 @@
   <text class="mono prompt line l8" x="54" y="346">yujingwen@yjw-mac ~ % <tspan class="body">open yujingwen.os</tspan></text>
 
   <text class="mono ready" x="54" y="389">SYSTEM READY</text>
-  <text class="mono cta" x="500" y="448" text-anchor="middle">CLICK TO LAUNCH · HIWHALEW.GITHUB.IO</text>
+  <text class="mono cta" x="500" y="448" text-anchor="middle">CLICK TO LAUNCH · HiWhaleW</text>
   <text class="mono arrow" x="500" y="483" text-anchor="middle">→</text>
 </svg>
