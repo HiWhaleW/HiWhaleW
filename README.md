@@ -2,8 +2,6 @@
 
 # Hi, I'm Yujingwen 👋
 
-**English** · [中文 ↓](#中文)
-
 [![Click to launch Yujingwen OS](https://raw.githubusercontent.com/HiWhaleW/HiWhaleW/main/assets/portfolio-launch.svg)](https://hiwhalew.github.io/)
 
 <p align="center"><sub>Click the Clear Light terminal to launch my personal website</sub></p>
